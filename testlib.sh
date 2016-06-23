@@ -1,3 +1,3 @@
 function hello {
-	echo "Hi, this is a test"
+	echo "Hi, this is a test."
 }
